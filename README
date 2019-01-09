@@ -1,0 +1,4 @@
+boost 1.49.0 library build and unit testing repo.
+
+- gcc 4.1.2
+- centos 5.8
